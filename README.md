@@ -1,1 +1,37 @@
-# OIBSIP-TASK1-Car-Price-Prediciton-
+# Car Price Prediction
+
+## Table of Contents
+- [Overview](#overview)
+- [Dependencies](#dependencies)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Contributing](#contributing)
+
+## Overview
+This project aims to predict the prices of cars using linear regression, a machine learning technique. It utilizes a dataset containing various features of cars such as mileage, age, brand, etc., to build a predictive model.
+
+## Dependencies
+- Python 3.x
+- Jupyter Notebook
+- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+## Setup
+1. Clone this repository:
+   ```
+   git clone https://github.com/prateek0809/Car_Price_Prediction.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd Car_Price_Prediction
+   ```
+   
+## Usage
+1. Open the Jupyter Notebook:
+   ```
+   jupyter notebook
+   ```
+2. Navigate to the `Car_Price_Prediction.ipynb` notebook.
+3. Follow the instructions provided in the notebook to train the model and make predictions.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
