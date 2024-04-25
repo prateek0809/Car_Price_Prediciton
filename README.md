@@ -1,5 +1,8 @@
 # Car Price Prediction
 
+## Overview
+This project aims to predict the prices of cars using linear regression, a machine learning technique. It utilizes a dataset containing various features of cars such as mileage, age, brand, etc., to build a predictive model.
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Overview](#overview)
@@ -10,9 +13,6 @@
 
 ## Introduction
 Welcome to the Car Price Prediction project! This project leverages machine learning techniques, specifically linear regression, to predict the prices of cars based on various features such as mileage, age, brand, etc. Predicting car prices accurately can be beneficial for both buyers and sellers in the automotive market. By analyzing historical data and building predictive models, we aim to provide insights into car pricing trends and assist users in making informed decisions regarding buying or selling cars. Dive into the project to explore how machine learning can be utilized in the automotive industry for price prediction.
-
-## Overview
-This project aims to predict the prices of cars using linear regression, a machine learning technique. It utilizes a dataset containing various features of cars such as mileage, age, brand, etc., to build a predictive model.
 
 ## Dependencies
 - Python 3.x
