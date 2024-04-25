@@ -1,7 +1,7 @@
 # Car Price Prediction
 
 ## Table of Contents
-- [Introduction](Introduction)
+- [Introduction](#introduction)
 - [Overview](#overview)
 - [Dependencies](#dependencies)
 - [Setup](#setup)
@@ -21,17 +21,17 @@ This project aims to predict the prices of cars using linear regression, a machi
 
 ## Setup
 1. Clone this repository:
-   ```
+   ```bash
    git clone https://github.com/prateek0809/Car_Price_Prediction.git
    ```
 2. Navigate to the project directory:
-   ```
+   ```bash
    cd Car_Price_Prediction
    ```
-   
+
 ## Usage
 1. Open the Jupyter Notebook:
-   ```
+   ```bash
    jupyter notebook
    ```
 2. Navigate to the `Car_Price_Prediction.ipynb` notebook.
@@ -39,3 +39,6 @@ This project aims to predict the prices of cars using linear regression, a machi
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+```
+Feel free to use this version or make any further adjustments as needed! Let me know if you need more help.
+```
