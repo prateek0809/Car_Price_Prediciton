@@ -5,7 +5,6 @@ This project aims to predict the prices of cars using linear regression, a machi
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Overview](#overview)
 - [Dependencies](#dependencies)
 - [Setup](#setup)
 - [Usage](#usage)
@@ -38,7 +37,4 @@ Welcome to the Car Price Prediction project! This project leverages machine lear
 3. Follow the instructions provided in the notebook to train the model and make predictions.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-```
-Feel free to use this version or make any further adjustments as needed! Let me know if you need more help.
-```
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Feel free to use this version or make any further adjustments as needed! Let me know if you need more help.
